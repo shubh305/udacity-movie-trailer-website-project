@@ -4,7 +4,7 @@ import media
 predestination = media.Movie("Predestination", "To save the future he must reshape the past.", "https://upload.wikimedia.org/wikipedia/en/4/4b/Predestination_poster.jpg", "https://www.youtube.com/watch?v=UVOpfpYijHA", "2014")
 
 maze_runner = media.Movie("The Maze Runner", "They're all trapped in a maze for a shot at escape.", "https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg", "https://www.youtube.com/watch?v=64-iSYVmMVY", "2014")
-                          
+                        
 la_la_land = media.Movie("La La Land", "A jazz pianist falls for an aspiring actress in Los Angeles. ", "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png", "https://www.youtube.com/watch?v=0pdqf4P9MB8", "2014")
 
 edge_of_tomorrow = media.Movie("Edge of Tomorrow", "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.", "https://upload.wikimedia.org/wikipedia/en/f/f9/Edge_of_Tomorrow_Poster.jpg", "https://www.youtube.com/watch?v=yUmSVcttXnI", "2014")
